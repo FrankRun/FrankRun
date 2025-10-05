@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xuerun Yan</h1>
 <h3 align="center">Joint PhD, Tongji University & Nanyang Technological University</h3>
 
-- 🔭 I’m currently working on **E2E Autonomous Driving/VLA for Autonomous Driving**
+### 🔭 I’m currently working on **E2E Autonomous Driving/VLA for Autonomous Driving**
 
-- 📫 How to reach me **frankyan@tongji.edu.cn**
+### 📫 How to reach me **frankyan@tongji.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
