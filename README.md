@@ -1,7 +1,26 @@
 <h1 align="center">Hi 👋, I'm Xuerun Yan</h1>
 <h3 align="center">Joint PhD, Tongji University & Nanyang Technological University</h3>
 
-### 🔭 I’m currently working on **E2E Autonomous Driving/VLA for Autonomous Driving**
+### 🔭 I’m currently working on **E2E Autonomous Driving && VLA for Autonomous Driving**
+
+## 🎓 Education
+- 😃**Joint PhD Student, Tongji University & NTU** (2021 - Present)  ![Tongji University Logo](https://upload.wikimedia.org/wikipedia/commons/0/0e/Tongji_University_Logo.png) 
+
+  Focus: Autonomous Driving & Intelligent Transportation System & Reinforcement Learning
+- 😃**B.Eng, Southeast University** (2017 - 2021)
+
+## 📄 Publications
+- 📝“Continuously Improved Reinforcement Learning for Automated Driving,” *IROS.
+- 📝“ExpliDrive: Bridging Model Predictive Control and Transformers for Interactive Autonomous Driving,” *IROS.
+- 📝“A simulation platform for truck platooning evaluation in an interactive traffic environment,” *IEEE TITS(Q1).
+- 📝“No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability,” *TR-PARTC(Q1).
+- 📝“Automated Driving with Evolution Capability: A Reinforcement Learning Method with Monotonic Performance Enhancement,” *arXiv preprint arXiv:2412.10822, 2024.
+  
+## 💼 Internship Experience
+- 🏢 **NIO, Autonomous Driving Department – Simulation Test Development**  
+  Focused on simulation replay, identifying performance issues, and implementing solutions.
+- 🏢 **Dazhuo Intelligent (Chery Auto), Large Intelligent Driving Model Group– Behavior Intelligence Development** 
+  Focused on interactive game-theoretic planning and control algorithm development.
 
 ### 📫 How to reach me **frankyan@tongji.edu.cn**
 
