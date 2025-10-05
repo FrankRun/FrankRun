@@ -4,7 +4,8 @@
 ### 🔭 I’m currently working on **E2E Autonomous Driving && VLA for Autonomous Driving**
 
 ## 🎓 Education
-- 😃**Joint PhD Student, Tongji University & NTU** (2021 - Present) **
+- 😃**Joint PhD Student, Tongji University & NTU** (2021 - Present)
+  
   Focus: Autonomous Driving & Intelligent Transportation System & Reinforcement Learning
 - 😃**B.Eng, Southeast University** (2017 - 2021)
 
