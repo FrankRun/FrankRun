@@ -11,15 +11,13 @@
 ## 📄 Publications
 - 📝Continuously Improved Reinforcement Learning for Automated Driving, IROS.
 - 📝ExpliDrive: Bridging Model Predictive Control and Transformers for Interactive Autonomous Driving, IROS.
-### 📝A simulation platform for truck platooning evaluation in an interactive traffic environment, IEEE TITS (Q1).
-### 📝No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability, TR-PartC (Q1).
-### 📝Automated Driving with Evolution Capability: A Reinforcement Learning Method with Monotonic Performance Enhancement, arXiv preprint arXiv:2412.10822, 2024.
+- 📝A simulation platform for truck platooning evaluation in an interactive traffic environment, IEEE TITS (Q1).
+- 📝No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability, TR-PartC (Q1).
+- 📝Automated Driving with Evolution Capability: A Reinforcement Learning Method with Monotonic Performance Enhancement, arXiv preprint arXiv:2412.10822, 2024.
   
 ## 💼 Internship Experience
-### 🏢 **NIO, Autonomous Driving Department – Simulation Test Development**  
-  Focused on simulation replay, identifying performance issues, and implementing solutions.
-### 🏢 **Dazhuo Intelligent (Chery Auto), Large Intelligent Driving Model Group– Behavior Intelligence Development** 
-  Focused on interactive game-theoretic planning and control algorithm development.
+- 🏢 **NIO, Autonomous Driving Department – Simulation Test Development**  
+- 🏢 **Dazhuo Intelligent (Chery Auto), Large Intelligent Driving Model Group– Behavior Intelligence Development** 
 
 ### 📫 How to reach me **frankyan@tongji.edu.cn**
 
