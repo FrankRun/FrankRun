@@ -9,11 +9,11 @@
 ### 😃**B.Eng, Southeast University** (2017 - 2021)
 
 ## 📄 Publications
-### 📝“Continuously Improved Reinforcement Learning for Automated Driving,” *IROS.
-### 📝“ExpliDrive: Bridging Model Predictive Control and Transformers for Interactive Autonomous Driving,” *IROS.
-### 📝“A simulation platform for truck platooning evaluation in an interactive traffic environment,” *IEEE TITS(Q1).
-### 📝“No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability,” *TR-PARTC(Q1).
-### 📝“Automated Driving with Evolution Capability: A Reinforcement Learning Method with Monotonic Performance Enhancement,” *arXiv preprint arXiv:2412.10822, 2024.
+### 📝Continuously Improved Reinforcement Learning for Automated Driving, *IROS.
+### 📝ExpliDrive: Bridging Model Predictive Control and Transformers for Interactive Autonomous Driving, IROS.
+### 📝A simulation platform for truck platooning evaluation in an interactive traffic environment, IEEE TITS (Q1).
+### 📝No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability, TR-PartC (Q1).
+### 📝Automated Driving with Evolution Capability: A Reinforcement Learning Method with Monotonic Performance Enhancement, arXiv preprint arXiv:2412.10822, 2024.
   
 ## 💼 Internship Experience
 ### 🏢 **NIO, Autonomous Driving Department – Simulation Test Development**  
