@@ -10,6 +10,7 @@
 
 ## 📄 Publications
 - 📝Continuously Improved Reinforcement Learning for Automated Driving, IROS.
+- 📝Fine-tuning is Not Enough: A Parallel Framework for Collaborative Imitation and Reinforcement Learning in End-to-end Autonomous Driving, CVPR Finding Track.
 - 📝ExpliDrive: Bridging Model Predictive Control and Transformers for Interactive Autonomous Driving, IROS.
 - 📝A simulation platform for truck platooning evaluation in an interactive traffic environment, IEEE TITS (Q1).
 - 📝No more road bullying: An integrated behavioral and motion planner with proactive right-of-way acquisition capability, TR-PartC (Q1).
